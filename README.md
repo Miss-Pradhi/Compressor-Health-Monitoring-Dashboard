@@ -29,3 +29,6 @@ streamlit run app.py
 ## Project Objective
 
 To demonstrate condition monitoring and preventive maintenance concepts for industrial compressors using data analytics and interactive visualization.
+
+## Project Demonstation
+https://compresor-health-monitoring-dashboard.streamlit.app/
